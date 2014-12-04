@@ -41,5 +41,11 @@ main research topics of **Idealcodes**.
 - December 10, 2014,
   UVSQ. [CLIC 2014: Codes, Lattices, Ideals, Cryptography](/clic-2014).
 
+## Talks
+
+- (December 10, 2014),
+  Fast Decoding of Hermitian Codes Using <script type="math/tex">𝔽[x]</script>-Lattice Basis Reduction,
+  UVSQ. [CLIC 2014: Codes, Lattices, Ideals, Cryptography](/clic-2014).
+
 ## Publications
 
