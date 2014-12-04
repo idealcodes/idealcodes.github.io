@@ -46,11 +46,11 @@ main research topics of **Idealcodes**.
 ## Talks
 
 - (December 10, 2014),
-  Fast Decoding of Hermitian Codes Using <script type="math/tex">𝔽[x]</script>-Lattice Basis Reduction,
+  *Fast Decoding of Hermitian Codes Using <script type="math/tex">𝔽[x]</script>-Lattice Basis Reduction*,
   Johan S. R. Nielsen. UVSQ. [CLIC 2014](/clic-2014).
 
 - (December 10, 2014),
-  Coppersmith's Algorithm
+  *Coppersmith's Algorithm*,
   Luca De Feo. UVSQ. [CLIC 2014](/clic-2014).
 
 ## Publications
