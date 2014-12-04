@@ -49,7 +49,7 @@ main research topics of **Idealcodes**.
 
 - (December 10, 2014),
   Coppersmith's Algorithm
-  Luca De Feoo. UVSQ. [CLIC 2014](/clic-2014).
+  Luca De Feo. UVSQ. [CLIC 2014](/clic-2014).
 
 ## Publications
 
