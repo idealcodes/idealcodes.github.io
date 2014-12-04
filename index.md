@@ -4,6 +4,8 @@ layout: main
 
 # Idealcodes
 
+## *Coppersmith's Method for Coding Theory and Cryptography*
+
 **Idealcodes** is a two years [Digiteo](http://www.digiteo.fr/)
 research project, started in October 2014. The partners involved are
 [École Polytechnique](http://www.lix.polytechnique.fr/) (X) and
